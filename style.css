@@ -1,0 +1,41 @@
+body {
+font-family: sans-serif;
+text-align: center;
+}
+
+h1 {
+font-size: 3em;
+}
+
+h2 {
+font-size: 2em;
+}
+
+ul {
+list-style-type: none;
+padding: 0;
+margin: 0;
+}
+
+li {
+display: inline-block;
+padding: 10px;
+}
+
+form {
+margin-top: 20px;
+}
+
+input[type="email"] {
+width: 200px;
+padding: 10px;
+border: 1px solid #ccc;
+}
+
+button[type="submit"] {
+background-color: #000;
+color: #fff;
+padding: 10px;
+border: none;
+cursor: pointer;
+}
